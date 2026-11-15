@@ -1,5 +1,3 @@
-name: Auto Image Gallery
-
 on:
   push:
     paths:
